@@ -16,29 +16,29 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Semibold",
-              "size": 20
+              "name": "SFProText-Semibold",
+              "size": 17
             }
           },
-          "kerning": 0.38,
+          "kerning": -0.408,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           }
         },
-        "length": 7,
+        "length": 36,
         "location": 0
       }
     ],
-    "string": "Sign up"
+    "string": "Sign up and we will keep you updated"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5C0A3F47-CA69-45A3-8B4A-7B0BC5A3BD67",
+  "do_objectID": "6C6E74E4-836F-43FD-B592-3EB5739B39A3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,21 +49,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
-    "destinationArtboardID": "2311DA0E-BD0C-4968-8EC8-1D8E97FDADAF",
-    "maintainScrollPosition": false
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 69,
-    "x": 172.5,
-    "y": 791
+    "height": 22,
+    "width": 315,
+    "x": 50,
+    "y": 199
   },
-  "glyphBounds": "{{0, 4}, {69, 19}}",
+  "glyphBounds": "{{0, 3}, {297, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,12 +66,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Sign up",
+  "name": "Sign up and we will",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "C364B29E-3514-45C0-8C28-0ED5DE20C93E",
+  "sharedStyleID": "3ED50AF4-5BC8-4430-AC52-631FC767AAF3",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -113,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2AEAA6C6-5307-4779-A1E6-896192AF9711",
+    "do_objectID": "F3B30455-D10F-40A5-9F7F-4851C44B5EED",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -136,24 +130,24 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Semibold",
-            "size": 20
+            "name": "SFProText-Semibold",
+            "size": 17
           }
         },
-        "kerning": 0.38,
+        "kerning": -0.408,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
