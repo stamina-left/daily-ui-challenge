@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B9E456F0-5445-4191-AB17-772291E72495",
+  "do_objectID": "C931F82A-2A51-4A2B-AA0B-4B64DA6EEB19",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,57 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1400,
-    "width": 1400,
-    "x": 1092,
-    "y": 75
+    "height": 44,
+    "width": 415,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFixedToViewport": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "shapePath",
-      "id": "375022C5-A4B4-47AB-B6DB-D472DE4003F3"
-    },
-    {
-      "class": "group",
-      "id": "911D66FA-0530-4E08-A9AF-9912CF1DF5EE"
-    },
-    {
-      "class": "group",
-      "id": "0B4CC115-782F-4CA3-98FF-E32D9D7DC970"
-    },
-    {
-      "class": "group",
-      "id": "4D46003E-8872-4AE7-9346-3754A19CF549"
-    },
-    {
-      "class": "group",
-      "id": "E922FD5E-BCDF-481F-883F-79CB188066D2"
-    },
-    {
-      "class": "group",
-      "id": "FA72D022-97C5-4F17-B581-2C4B049D1207"
-    },
-    {
-      "class": "group",
-      "id": "B8605A54-C091-4A6E-9390-AD3128548D06"
-    }
+  "layerListExpandedType": 0,
+  "name": "Bars/Status Bar/iPhone/Light",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Doctors Illustration",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -101,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6DD70F39-EDF3-4605-B927-066F0A908D24",
+    "do_objectID": "6A3809AC-7D79-41AC-9686-6BABE12A414D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -112,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "39C1DA87-D939-4F39-B443-C6E9939DF594",
+  "verticalSpacing": 0
 }

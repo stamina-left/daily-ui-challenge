@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B9E456F0-5445-4191-AB17-772291E72495",
+  "do_objectID": "A08DC144-EC25-4B52-A3C9-9A5F636CAB9E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,57 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1400,
-    "width": 1400,
-    "x": 1092,
-    "y": 75
+    "height": 101,
+    "width": 314,
+    "x": 51,
+    "y": 599
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Password",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "shapePath",
-      "id": "375022C5-A4B4-47AB-B6DB-D472DE4003F3"
+      "_class": "overrideValue",
+      "overrideName": "B446D674-FA20-401E-B31B-1BB85E183D93_stringValue",
+      "value": "Password"
     },
     {
-      "class": "group",
-      "id": "911D66FA-0530-4E08-A9AF-9912CF1DF5EE"
-    },
-    {
-      "class": "group",
-      "id": "0B4CC115-782F-4CA3-98FF-E32D9D7DC970"
-    },
-    {
-      "class": "group",
-      "id": "4D46003E-8872-4AE7-9346-3754A19CF549"
-    },
-    {
-      "class": "group",
-      "id": "E922FD5E-BCDF-481F-883F-79CB188066D2"
-    },
-    {
-      "class": "group",
-      "id": "FA72D022-97C5-4F17-B581-2C4B049D1207"
-    },
-    {
-      "class": "group",
-      "id": "B8605A54-C091-4A6E-9390-AD3128548D06"
+      "_class": "overrideValue",
+      "overrideName": "144AA67C-2083-4F7A-9085-67045ACFAC13_stringValue",
+      "value": "********"
     }
   ],
-  "name": "Doctors Illustration",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -101,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6DD70F39-EDF3-4605-B927-066F0A908D24",
+    "do_objectID": "78BC0A65-80AB-4032-B80B-26473798D07F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -112,5 +92,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "47D3A809-625F-465B-AE56-D995BB7CD81E",
+  "verticalSpacing": 0
 }
