@@ -16,17 +16,17 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Regular",
-              "size": 20
+              "name": "SFProText-Regular",
+              "size": 17
             }
           },
-          "kerning": 0.3799999952316284,
+          "kerning": -0.408,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           }
         },
         "length": 21,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 199,
-    "x": 108,
-    "y": 940
+    "height": 22,
+    "width": 184,
+    "x": 180,
+    "y": 749
   },
-  "glyphBounds": "{{1, 4}, {196, 19}}",
+  "glyphBounds": "{{6, 4}, {173, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "ED166620-37C6-4045-9E5E-6ABCD77B0FF1",
+  "sharedStyleID": "865292F8-D5E8-4486-B154-24DFD93377B2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -130,24 +130,24 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Regular",
-            "size": 20
+            "name": "SFProText-Regular",
+            "size": 17
           }
         },
-        "kerning": 0.3799999952316284,
+        "kerning": -0.408,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -33,16 +33,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F_symbolID",
-      "value": "7C714736-9314-4574-A8E0-8A9ADDDA2B01"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/2C9FCF65-4E46-4384-994D-50A6039C1094/C775C125-1F6B-4B13-AD74-6234E85A5421_stringValue",
-      "value": "Skip"
-    },
-    {
-      "_class": "overrideValue",
       "overrideName": "02F8A26C-65B2-4A10-9C97-9EBB6E02D878_stringValue",
       "value": "Sign In"
     },
@@ -58,13 +48,28 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/2C9FCF65-4E46-4384-994D-50A6039C1094/1DBB0259-9E59-40E2-9F9B-F8103F98428C_layerStyle",
+      "overrideName": "02F8A26C-65B2-4A10-9C97-9EBB6E02D878_textStyle",
+      "value": "BCD9208C-5FC2-4758-BBD7-2D70227FBA93"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/D6678922-600F-438E-9F5F-16EC1F652C63_layerStyle",
       "value": "435C5BB3-6BD4-4BBE-A491-019866662E16"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "02F8A26C-65B2-4A10-9C97-9EBB6E02D878_textStyle",
-      "value": "BCD9208C-5FC2-4758-BBD7-2D70227FBA93"
+      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/55C888B5-17ED-4494-959F-63B95FB7D5A2_stringValue",
+      "value": "Skip"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/50363C18-2EC0-43D3-85D7-68E7E7D01B54_stringValue",
+      "value": "Back"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/5B79F8FA-135E-4E0E-890B-B9536F72A5EF_flowDestination",
+      "value": "94A83B44-BE08-4897-862B-38D72F0A6805"
     }
   ],
   "resizingConstraint": 63,
