@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.6196078431372549,
+    "green": 0.5960784313725488,
+    "red": 0.01176470588235287
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9aa768d0-91a7-11ea-b34c-bff455035741",
+  "do_objectID": "D7585B3A-ED8C-4427-AED4-7F08D8F28275",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,57 +22,88 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 1072,
+    "width": 414,
+    "x": 164,
+    "y": 75
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "5536ED69-E519-43D9-B41F-792990426276"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7ADDA907-DF88-4258-981C-BBF7E200E104"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8EFA44C-9C57-40B6-A588-9C62456D9F3C"
+    },
+    {
+      "class": "rectangle",
+      "id": "99F5E8E6-63D5-4360-B43B-8BAA31A3FFEF"
+    },
+    {
       "class": "group",
-      "id": "B9E456F0-5445-4191-AB17-772291E72495"
+      "id": "DEA982FA-CD03-434E-9D42-DF35673426D6"
     },
     {
-      "class": "artboard",
-      "id": "94A83B44-BE08-4897-862B-38D72F0A6805"
+      "class": "symbolInstance",
+      "id": "990C2CE5-B114-4D3B-924D-FF2FE11C6C50"
     },
     {
-      "class": "artboard",
-      "id": "D7585B3A-ED8C-4427-AED4-7F08D8F28275"
+      "class": "symbolInstance",
+      "id": "9CC88797-4677-44FD-9C09-C809F99F2BA5"
     },
     {
-      "class": "symbolMaster",
-      "id": "E10D4719-0465-47DC-9421-82FAD79BE86E"
+      "class": "symbolInstance",
+      "id": "192E9A21-FA38-41F8-95B5-17136C9429E9"
     },
     {
-      "class": "symbolMaster",
-      "id": "78BE8E62-22A3-454D-B7C2-E5DDB2A49F11"
+      "class": "text",
+      "id": "EC933838-370D-4F3E-AF6B-7C9060480CF6"
+    },
+    {
+      "class": "text",
+      "id": "5C0A3F47-CA69-45A3-8B4A-7B0BC5A3BD67"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Other Sign In",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone 11",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -100,7 +138,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "51BF8365-A596-48AB-BE02-0FE30B0F2750",
+    "do_objectID": "5B05E64E-FADA-49E5-AFFE-A9187AA629C5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -114,7 +152,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
