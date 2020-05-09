@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9aa768d0-91a7-11ea-b34c-bff455035741",
+  "do_objectID": "D26544A7-F8C6-4320-AECB-C10604A552EC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,56 +15,57 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "height": 88,
+    "width": 415,
+    "x": -0.5,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
-  "isFixedToViewport": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Bars/Navigation Bar/iPhone - Compact/Light/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "B9E456F0-5445-4191-AB17-772291E72495"
+      "_class": "overrideValue",
+      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F_symbolID",
+      "value": "7C714736-9314-4574-A8E0-8A9ADDDA2B01"
     },
     {
-      "class": "artboard",
-      "id": "94A83B44-BE08-4897-862B-38D72F0A6805"
+      "_class": "overrideValue",
+      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/2C9FCF65-4E46-4384-994D-50A6039C1094/C775C125-1F6B-4B13-AD74-6234E85A5421_stringValue",
+      "value": "Skip"
     },
     {
-      "class": "artboard",
-      "id": "D7585B3A-ED8C-4427-AED4-7F08D8F28275"
+      "_class": "overrideValue",
+      "overrideName": "02F8A26C-65B2-4A10-9C97-9EBB6E02D878_stringValue",
+      "value": " "
     },
     {
-      "class": "symbolMaster",
-      "id": "E10D4719-0465-47DC-9421-82FAD79BE86E"
+      "_class": "overrideValue",
+      "overrideName": "CD5B9484-7853-4C68-9249-E534E304B555_symbolID",
+      "value": ""
     },
     {
-      "class": "symbolMaster",
-      "id": "78BE8E62-22A3-454D-B7C2-E5DDB2A49F11"
+      "_class": "overrideValue",
+      "overrideName": "0E901A50-492C-4133-98A2-4B3F0009BCE2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/2C9FCF65-4E46-4384-994D-50A6039C1094/1DBB0259-9E59-40E2-9F9B-F8103F98428C_layerStyle",
+      "value": "435C5BB3-6BD4-4BBE-A491-019866662E16"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -100,7 +101,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "51BF8365-A596-48AB-BE02-0FE30B0F2750",
+    "do_objectID": "A484376B-77BF-41AC-8040-438558274DB9",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -112,10 +113,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "1229BC79-86E4-4150-8E74-FC64E631BF7D",
+  "verticalSpacing": 0
 }
