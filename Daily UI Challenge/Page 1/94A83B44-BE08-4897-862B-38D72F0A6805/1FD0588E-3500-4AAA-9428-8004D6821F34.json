@@ -16,17 +16,17 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProText-Regular",
-              "size": 17
+              "name": "SFProDisplay-Regular",
+              "size": 20
             }
           },
-          "kerning": -0.408,
+          "kerning": 0.3799999952316284,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
         "length": 18,
@@ -58,12 +58,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 330,
-    "x": 42.5,
+    "height": 24,
+    "width": 314,
+    "x": 50,
     "y": 762
   },
-  "glyphBounds": "{{99, 4}, {132, 17}}",
+  "glyphBounds": "{{82, 4}, {149, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -77,7 +77,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "865292F8-D5E8-4486-B154-24DFD93377B2",
+  "sharedStyleID": "ED166620-37C6-4045-9E5E-6ABCD77B0FF1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -136,17 +136,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProText-Regular",
-            "size": 17
+            "name": "SFProDisplay-Regular",
+            "size": 20
           }
         },
-        "kerning": -0.408,
+        "kerning": 0.3799999952316284,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0

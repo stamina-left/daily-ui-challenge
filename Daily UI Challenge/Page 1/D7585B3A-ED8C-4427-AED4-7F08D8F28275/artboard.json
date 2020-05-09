@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1072,
+    "height": 896,
     "width": 414,
     "x": 164,
     "y": 75
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -88,6 +88,10 @@
     {
       "class": "text",
       "id": "5C0A3F47-CA69-45A3-8B4A-7B0BC5A3BD67"
+    },
+    {
+      "class": "text",
+      "id": "4586F40A-C66A-4B71-BF88-F6CF13F039E8"
     }
   ],
   "name": "Other Sign In",
