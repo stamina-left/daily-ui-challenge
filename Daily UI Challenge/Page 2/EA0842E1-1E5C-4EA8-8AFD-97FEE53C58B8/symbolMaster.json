@@ -1,15 +1,17 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.6196078431372549,
-    "green": 0.5960784313725488,
-    "red": 0.01176470588235287
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 314,
   "clippingMaskMode": 0,
-  "do_objectID": "94A83B44-BE08-4897-862B-38D72F0A6805",
+  "do_objectID": "EA0842E1-1E5C-4EA8-8AFD-97FEE53C58B8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 896,
-    "width": 414,
-    "x": -350,
-    "y": 75
+    "height": 100,
+    "width": 100,
+    "x": 306,
+    "y": -248
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -40,6 +42,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,53 +50,32 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "D26544A7-F8C6-4320-AECB-C10604A552EC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EDCA0F82-1B3A-4014-9125-E6CDC8DDCC81"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "322D32B0-B085-4181-9330-B2094A99440C"
-    },
-    {
       "class": "rectangle",
-      "id": "7F605920-2DA6-4037-B9D6-DF8D75422C5F"
+      "id": "01284053-268A-4673-B1B8-6D0D4715F07D"
     },
     {
       "class": "text",
-      "id": "75ECC83A-4E44-4595-B66C-670EF5274B2B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1190F3AF-8185-4AC2-9E49-A35F8A873C12"
-    },
-    {
-      "class": "text",
-      "id": "1FD0588E-3500-4AAA-9428-8004D6821F34"
-    },
-    {
-      "class": "group",
-      "id": "4A860A2A-754F-4086-B514-B5D525CD6F18"
-    },
-    {
-      "class": "text",
-      "id": "F4E59370-BDC1-439F-8C63-D34498DF2898"
+      "id": "2502258B-38CD-4C97-9AA4-1200A6BD7AEC"
     }
   ],
-  "name": "Sign In",
+  "name": "Calculator Button Second Until Final Row",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2502258B-38CD-4C97-9AA4-1200A6BD7AEC_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2502258B-38CD-4C97-9AA4-1200A6BD7AEC_stringValue"
+    }
+  ],
   "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 896,
-    "name": "iPhone 11",
-    "offersLandscapeVariant": 1,
-    "width": 414
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -134,7 +116,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D654FBF8-08E4-4E03-916F-DEB1B90727AA",
+    "do_objectID": "5642379A-00B0-49F1-B063-A325AEA49664",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -146,6 +128,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "C70BB1CF-D52F-4B5C-81CD-9320949AA79D",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
