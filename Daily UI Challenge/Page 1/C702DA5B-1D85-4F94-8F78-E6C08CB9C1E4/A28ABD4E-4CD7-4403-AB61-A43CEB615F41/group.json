@@ -1,17 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
-  "changeIdentifier": 171,
   "clippingMaskMode": 0,
-  "do_objectID": "7F60718C-0054-43C2-A042-A404CF48783F",
+  "do_objectID": "A28ABD4E-4CD7-4403-AB61-A43CEB615F41",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,60 +15,38 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
-    "width": 145,
-    "x": 678,
-    "y": 420
+    "height": 140,
+    "width": 415,
+    "x": -1.000000000000028,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "987F751D-E4A4-4B48-8563-E8F866FCB848"
-    }
-  ],
-  "name": "Quick Number Button",
-  "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FABF122A-530C-415D-BADB-460773E93D00_textStyle"
+      "class": "rectangle",
+      "id": "F15C3C99-7DB6-4D89-A111-9435203A7742"
     },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FABF122A-530C-415D-BADB-460773E93D00_stringValue"
+      "class": "symbolInstance",
+      "id": "D4C3FD71-2CA8-42EF-8894-D4FFCB920096"
     }
   ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "Navigation Bar with Custom Background",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -112,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A9F8AFB4-45CC-4E55-802C-8027F756E07D",
+    "do_objectID": "877916AE-E86D-4427-9B23-94BBD3D3AF3C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,12 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "E9AD7E13-1A48-4590-A964-31571198EB06",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

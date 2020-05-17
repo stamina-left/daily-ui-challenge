@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,9 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 171,
   "clippingMaskMode": 0,
-  "do_objectID": "7F60718C-0054-43C2-A042-A404CF48783F",
+  "do_objectID": "C702DA5B-1D85-4F94-8F78-E6C08CB9C1E4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
-    "width": 145,
-    "x": 678,
-    "y": 420
+    "height": 896,
+    "width": 414,
+    "x": -350,
+    "y": 1071
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -42,7 +40,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,28 +47,77 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "987F751D-E4A4-4B48-8563-E8F866FCB848"
-    }
-  ],
-  "name": "Quick Number Button",
-  "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FABF122A-530C-415D-BADB-460773E93D00_textStyle"
+      "id": "A28ABD4E-4CD7-4403-AB61-A43CEB615F41"
     },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FABF122A-530C-415D-BADB-460773E93D00_stringValue"
+      "class": "symbolInstance",
+      "id": "46AB56F4-523B-448F-A463-6CBB8BE245AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82C51CA6-1A0A-4DCD-8923-FD8304456EF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C047E0D-B52D-41A7-A683-83A173EBE0C9"
+    },
+    {
+      "class": "oval",
+      "id": "F401B956-0D45-4FA8-A8D5-115E96EEF407"
+    },
+    {
+      "class": "text",
+      "id": "15345080-EEA3-415D-8AB2-F59AE623E856"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FAFFA2F-5249-4B3D-BC23-5925A0D74546"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC645BFA-80B9-425A-ABC3-057EC1CC1E96"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF5C84B6-556D-48C4-A5CB-A10709D35E5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1AB8980-C19A-4D64-A7A9-A6723B55B17F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7BA064D-E570-4396-866C-4E522CCEB3F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "541E0B94-7F33-4580-87A9-B73D368CD4B3"
+    },
+    {
+      "class": "text",
+      "id": "1317AC0B-A058-4120-98C5-F0320E66964A"
+    },
+    {
+      "class": "text",
+      "id": "3A1CE9B6-A5A0-47A9-8837-264FB1BD4D0D"
+    },
+    {
+      "class": "text",
+      "id": "862800D8-CD56-465A-AEA5-28DA8CECB3FD"
     }
   ],
+  "name": "User Profile",
+  "nameIsFixed": true,
   "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone 11",
+    "offersLandscapeVariant": 1,
+    "width": 414
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -112,7 +158,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A9F8AFB4-45CC-4E55-802C-8027F756E07D",
+    "do_objectID": "BF07B2CA-DDB5-4EF1-9668-60AB49A07D81",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,7 +170,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E9AD7E13-1A48-4590-A964-31571198EB06",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
