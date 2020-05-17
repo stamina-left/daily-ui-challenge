@@ -16,29 +16,29 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Regular",
-              "size": 34
+              "name": "SFProText-Regular",
+              "size": 16
             }
           },
-          "kerning": 0.3740000128746033,
+          "kerning": -0.32,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 41,
-            "minimumLineHeight": 41
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21
           }
         },
-        "length": 8,
+        "length": 29,
         "location": 0
       }
     ],
-    "string": "John Doe"
+    "string": "You were more supportive than"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "15345080-EEA3-415D-8AB2-F59AE623E856",
+  "do_objectID": "1317AC0B-A058-4120-98C5-F0320E66964A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
-    "width": 144,
-    "x": 135,
-    "y": 314
+    "height": 21,
+    "width": 244,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{2, 9}, {139, 25}}",
+  "glyphBounds": "{{9, 4}, {225, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,12 +66,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "John Doe",
+  "name": "You were more suppor",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "BDD49EA7-AAB3-4EBB-87AC-6D30BDD988A8",
+  "sharedStyleID": "A0146461-328B-479E-A245-324E08DE60F7",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BB1BA59B-DCCF-49B9-8D3F-EE89E3298C1C",
+    "do_objectID": "F25D679F-82B7-4D0F-BD03-784CE69FBA3F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,17 +130,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Regular",
-            "size": 34
+            "name": "SFProText-Regular",
+            "size": 16
           }
         },
-        "kerning": 0.3740000128746033,
+        "kerning": -0.32,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 41,
-          "minimumLineHeight": 41
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21
         }
       },
       "verticalAlignment": 0

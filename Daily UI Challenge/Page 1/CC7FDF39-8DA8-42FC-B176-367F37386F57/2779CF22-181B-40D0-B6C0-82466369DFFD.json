@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A28ABD4E-4CD7-4403-AB61-A43CEB615F41",
+  "do_objectID": "2779CF22-181B-40D0-B6C0-82466369DFFD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 140,
-    "width": 415,
-    "x": -1.000000000000028,
-    "y": 0
+    "height": 60,
+    "width": 414,
+    "x": 0,
+    "y": 231.8161764705883
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFixedToViewport": true,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Controls/Table View/Row/Compact/Light/Large",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "F15C3C99-7DB6-4D89-A111-9435203A7742"
+      "_class": "overrideValue",
+      "overrideName": "E3340855-5749-4D8F-BEAA-75265628AD45/35EDAAC6-1287-470F-A862-FB951CF231A6/A4D320BA-ABD9-490D-9585-67394B5A8885_stringValue",
+      "value": "Email"
     },
     {
-      "class": "symbolInstance",
-      "id": "D4C3FD71-2CA8-42EF-8894-D4FFCB920096"
+      "_class": "overrideValue",
+      "overrideName": "E3340855-5749-4D8F-BEAA-75265628AD45/35EDAAC6-1287-470F-A862-FB951CF231A6/DD1DFAA7-868F-4591-A9BA-D05ABBE405AA_stringValue",
+      "value": "johndoe@mail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8FFFDDBF-F5EB-4156-8935-0C898C53FA35_symbolID",
+      "value": ""
     }
   ],
-  "name": "Navigation Bar with Custom Background",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "877916AE-E86D-4427-9B23-94BBD3D3AF3C",
+    "do_objectID": "B898414F-0641-4E7C-BC1F-C06701650A9B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +97,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "3A67852F-6FEE-4A27-B58E-936191397E46",
+  "verticalSpacing": 0
 }

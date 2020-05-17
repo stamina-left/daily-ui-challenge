@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -66,48 +66,16 @@
       "id": "9C047E0D-B52D-41A7-A683-83A173EBE0C9"
     },
     {
-      "class": "oval",
-      "id": "F401B956-0D45-4FA8-A8D5-115E96EEF407"
+      "class": "group",
+      "id": "BDC83E1B-30F0-45F9-B5AC-F307E9EFA01B"
     },
     {
-      "class": "text",
-      "id": "15345080-EEA3-415D-8AB2-F59AE623E856"
+      "class": "group",
+      "id": "A02AE68D-B7CA-47A0-9882-C9F4555D2AB3"
     },
     {
-      "class": "symbolInstance",
-      "id": "3FAFFA2F-5249-4B3D-BC23-5925A0D74546"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AC645BFA-80B9-425A-ABC3-057EC1CC1E96"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AF5C84B6-556D-48C4-A5CB-A10709D35E5E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F1AB8980-C19A-4D64-A7A9-A6723B55B17F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C7BA064D-E570-4396-866C-4E522CCEB3F4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "541E0B94-7F33-4580-87A9-B73D368CD4B3"
-    },
-    {
-      "class": "text",
-      "id": "1317AC0B-A058-4120-98C5-F0320E66964A"
-    },
-    {
-      "class": "text",
-      "id": "3A1CE9B6-A5A0-47A9-8837-264FB1BD4D0D"
-    },
-    {
-      "class": "text",
-      "id": "862800D8-CD56-465A-AEA5-28DA8CECB3FD"
+      "class": "group",
+      "id": "FCDE1344-D96B-42B5-B468-549A1A88723E"
     }
   ],
   "name": "User Profile",

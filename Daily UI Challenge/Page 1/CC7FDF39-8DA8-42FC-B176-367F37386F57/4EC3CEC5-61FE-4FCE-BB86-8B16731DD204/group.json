@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A28ABD4E-4CD7-4403-AB61-A43CEB615F41",
+  "do_objectID": "4EC3CEC5-61FE-4FCE-BB86-8B16731DD204",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 140,
+    "height": 88,
     "width": 415,
-    "x": -1.000000000000028,
+    "x": -1,
     "y": 0
   },
   "groupLayout": {
@@ -30,15 +30,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "F15C3C99-7DB6-4D89-A111-9435203A7742"
+      "id": "886E8EF1-F7B2-4C2C-A265-8E457FED3B22"
     },
     {
       "class": "symbolInstance",
-      "id": "D4C3FD71-2CA8-42EF-8894-D4FFCB920096"
+      "id": "0B8039AC-FE51-47A6-915C-49DE84F671CF"
     }
   ],
   "name": "Navigation Bar with Custom Background",
@@ -81,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "877916AE-E86D-4427-9B23-94BBD3D3AF3C",
+    "do_objectID": "3634DB54-9E31-4E10-A994-38E0E9B0A300",
     "endMarkerType": 0,
     "fills": [
     ],

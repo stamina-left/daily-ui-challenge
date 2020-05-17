@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AF5C84B6-556D-48C4-A5CB-A10709D35E5E",
+  "do_objectID": "FCDE1344-D96B-42B5-B468-549A1A88723E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 414,
-    "x": -2.842170943040401e-14,
-    "y": 630
+    "height": 195,
+    "width": 144,
+    "x": 135,
+    "y": 160
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Controls/Table View/Row/Regular/Light/Default Copy",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "683F8D7B-E5F9-436E-9562-1193E26A8A13/13D7E7DE-175B-4B9E-ADA4-AEAF269672AB/95DF010F-7043-4F31-8653-4707DE62DC11_stringValue",
-      "value": "Help"
+      "class": "text",
+      "id": "15345080-EEA3-415D-8AB2-F59AE623E856"
+    },
+    {
+      "class": "oval",
+      "id": "F401B956-0D45-4FA8-A8D5-115E96EEF407"
     }
   ],
+  "name": "Profile",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9B22C577-AF2D-400E-899F-049D8999AAB2",
+    "do_objectID": "85DE8CC2-2559-4DCB-BE08-EFC81C4EAEA4",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "D5EA42E7-15A4-4E89-9EF3-CBF27CAC4C2B",
-  "verticalSpacing": 0
+  }
 }
