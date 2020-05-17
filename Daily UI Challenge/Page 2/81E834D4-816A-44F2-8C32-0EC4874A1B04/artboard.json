@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,9 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 175,
   "clippingMaskMode": 0,
-  "do_objectID": "CD4A5A87-7A62-4A99-8332-B8E538A34AF1",
+  "do_objectID": "81E834D4-816A-44F2-8C32-0EC4874A1B04",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,15 +22,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
-    "width": 100,
-    "x": 306,
-    "y": -448
+    "height": 896,
+    "width": 414,
+    "x": -208,
+    "y": 548
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -42,7 +40,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,32 +47,65 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "D37AF5EA-ED62-415B-8372-410291D31A4D"
+      "id": "F4B2BA3C-3D82-4007-B537-71765DFA68DD"
+    },
+    {
+      "class": "group",
+      "id": "598FBF39-3033-46A2-8969-7C3CC94F23B8"
+    },
+    {
+      "class": "group",
+      "id": "BE8686DF-7C5A-43A5-85CE-E5208D56066C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9719B1EC-8BB9-4D27-B12C-85E56D7D4CA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5893B334-E43D-49EF-AA55-39585F2F6CB2"
     },
     {
       "class": "text",
-      "id": "9C62FA70-8DAA-421A-B5D8-397F77EF0CED"
-    }
-  ],
-  "name": "Calculator Button",
-  "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9C62FA70-8DAA-421A-B5D8-397F77EF0CED_textStyle"
+      "id": "6F03A99E-E395-4CD0-9062-72452268653C"
     },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9C62FA70-8DAA-421A-B5D8-397F77EF0CED_stringValue"
+      "class": "text",
+      "id": "277AE423-B584-4BA1-8738-0B5E0DD59A22"
+    },
+    {
+      "class": "text",
+      "id": "85E6A27E-1DE7-4415-A07E-83C849A8CBFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93B91A54-F9D6-44B5-9D77-063FAD5D8C51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2105E35A-A0C4-4F5C-884E-C642E3E25EA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C109CAAB-501E-4C9F-9047-22EAA6FDB39C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48EC63BB-90F9-4EA0-B5E6-9AF5C551D42A"
     }
   ],
+  "name": "Music Player",
+  "nameIsFixed": true,
   "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone 11",
+    "offersLandscapeVariant": 1,
+    "width": 414
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -116,7 +146,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B40F1A89-ADBA-43E8-A670-58E801EFC7F4",
+    "do_objectID": "D10ECA40-C2A8-4090-8689-C158B76C49BC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,7 +158,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "90007546-0B02-4A81-860E-047AD89E73C9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
