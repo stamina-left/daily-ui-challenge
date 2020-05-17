@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3FAFFA2F-5249-4B3D-BC23-5925A0D74546",
+  "do_objectID": "B8E5E151-E831-4FEC-9D67-C52EB3984CFB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,26 +16,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 414,
-    "x": -2.842170943040401e-14,
-    "y": 571
+    "width": 415,
+    "x": -1,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
-  "isFixedToViewport": false,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Controls/Table View/Row/Regular/Light/Default",
+  "name": "Bars/Status Bar/iPhone/Light",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "683F8D7B-E5F9-436E-9562-1193E26A8A13/13D7E7DE-175B-4B9E-ADA4-AEAF269672AB/95DF010F-7043-4F31-8653-4707DE62DC11_stringValue",
-      "value": "Payments"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DB239494-1AFF-45FF-BAC6-8DCE8368EA96",
+    "do_objectID": "1104B16F-F092-4EDE-975D-0CE7657D3B2B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D5EA42E7-15A4-4E89-9EF3-CBF27CAC4C2B",
+  "symbolID": "39C1DA87-D939-4F39-B443-C6E9939DF594",
   "verticalSpacing": 0
 }

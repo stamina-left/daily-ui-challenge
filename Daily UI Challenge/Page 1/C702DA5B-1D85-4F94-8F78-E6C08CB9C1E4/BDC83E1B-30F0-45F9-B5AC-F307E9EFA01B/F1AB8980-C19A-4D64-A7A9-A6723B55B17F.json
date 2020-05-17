@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A28ABD4E-4CD7-4403-AB61-A43CEB615F41",
+  "do_objectID": "F1AB8980-C19A-4D64-A7A9-A6723B55B17F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 140,
-    "width": 415,
-    "x": -1.000000000000028,
-    "y": 0
+    "height": 44,
+    "width": 414,
+    "x": -2.842170943040401e-14,
+    "y": 198
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFixedToViewport": true,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Controls/Table View/Row/Regular/Light/Default Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "F15C3C99-7DB6-4D89-A111-9435203A7742"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D4C3FD71-2CA8-42EF-8894-D4FFCB920096"
+      "_class": "overrideValue",
+      "overrideName": "683F8D7B-E5F9-436E-9562-1193E26A8A13/13D7E7DE-175B-4B9E-ADA4-AEAF269672AB/95DF010F-7043-4F31-8653-4707DE62DC11_stringValue",
+      "value": "About"
     }
   ],
-  "name": "Navigation Bar with Custom Background",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "877916AE-E86D-4427-9B23-94BBD3D3AF3C",
+    "do_objectID": "CE0BB32A-2309-4C02-B1C1-6B8A1287E9F9",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "D5EA42E7-15A4-4E89-9EF3-CBF27CAC4C2B",
+  "verticalSpacing": 0
 }

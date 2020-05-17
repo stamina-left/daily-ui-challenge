@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "541E0B94-7F33-4580-87A9-B73D368CD4B3",
+  "do_objectID": "E70765FE-55CA-4917-B496-B65B6E706DEB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
+    "height": 60,
     "width": 414,
-    "x": -2.842170943040401e-14,
-    "y": 476
+    "x": -1,
+    "y": 292
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +28,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bars/Navigation Bar/x/Search Field/Light - Field Empty",
+  "name": "Controls/Table View/Row/Compact/Light/Large Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E3340855-5749-4D8F-BEAA-75265628AD45/35EDAAC6-1287-470F-A862-FB951CF231A6/A4D320BA-ABD9-490D-9585-67394B5A8885_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E3340855-5749-4D8F-BEAA-75265628AD45/35EDAAC6-1287-470F-A862-FB951CF231A6/DD1DFAA7-868F-4591-A9BA-D05ABBE405AA_stringValue",
+      "value": "********"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8FFFDDBF-F5EB-4156-8935-0C898C53FA35_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2DED5179-77C0-4D83-AF1C-049921C2B443",
+    "do_objectID": "457D0AE1-FB5E-4C1C-8C3E-E65C31A5AF85",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +98,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1A4CB0A2-D9D8-4614-98EC-B8A3AD8F448D",
+  "symbolID": "3A67852F-6FEE-4A27-B58E-936191397E46",
   "verticalSpacing": 0
 }

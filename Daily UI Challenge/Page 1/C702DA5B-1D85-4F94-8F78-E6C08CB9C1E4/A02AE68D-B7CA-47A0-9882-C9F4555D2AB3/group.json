@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C7BA064D-E570-4396-866C-4E522CCEB3F4",
+  "do_objectID": "A02AE68D-B7CA-47A0-9882-C9F4555D2AB3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 414,
-    "x": 0,
-    "y": 733
+    "height": 86,
+    "width": 244,
+    "x": 85,
+    "y": 370
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Controls/Table View/Row/Regular/Light/Default Copy 4",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "683F8D7B-E5F9-436E-9562-1193E26A8A13/13D7E7DE-175B-4B9E-ADA4-AEAF269672AB/95DF010F-7043-4F31-8653-4707DE62DC11_stringValue",
-      "value": "Sign Out"
+      "class": "text",
+      "id": "1317AC0B-A058-4120-98C5-F0320E66964A"
+    },
+    {
+      "class": "text",
+      "id": "3A1CE9B6-A5A0-47A9-8837-264FB1BD4D0D"
+    },
+    {
+      "class": "text",
+      "id": "862800D8-CD56-465A-AEA5-28DA8CECB3FD"
     }
   ],
+  "name": "Summary",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7CDA44A4-3EDA-436F-B0DA-897E1EEBE576",
+    "do_objectID": "10917779-D841-4C2C-9E66-1B014C61A38E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "D5EA42E7-15A4-4E89-9EF3-CBF27CAC4C2B",
-  "verticalSpacing": 0
+  }
 }
