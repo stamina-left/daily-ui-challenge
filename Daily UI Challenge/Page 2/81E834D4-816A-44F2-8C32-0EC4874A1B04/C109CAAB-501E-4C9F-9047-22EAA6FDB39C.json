@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F336235C-F1C3-463D-92F6-46010998901C",
+  "do_objectID": "C109CAAB-501E-4C9F-9047-22EAA6FDB39C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,60 +15,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 60,
+    "width": 414,
+    "x": -1,
+    "y": 668
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -336,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Controls/Table View/Row/Compact/Light/Large",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "81E834D4-816A-44F2-8C32-0EC4874A1B04"
+      "_class": "overrideValue",
+      "overrideName": "8DE86DD2-B980-4268-9306-3277B7C83A8A_symbolID",
+      "value": ""
     },
     {
-      "class": "artboard",
-      "id": "F2579231-D06F-4A50-900E-DA6FF1ACF002"
+      "_class": "overrideValue",
+      "overrideName": "E3340855-5749-4D8F-BEAA-75265628AD45/35EDAAC6-1287-470F-A862-FB951CF231A6/A4D320BA-ABD9-490D-9585-67394B5A8885_stringValue",
+      "value": "I THINK"
     },
     {
-      "class": "symbolMaster",
-      "id": "CD4A5A87-7A62-4A99-8332-B8E538A34AF1"
+      "_class": "overrideValue",
+      "overrideName": "E3340855-5749-4D8F-BEAA-75265628AD45/35EDAAC6-1287-470F-A862-FB951CF231A6/DD1DFAA7-868F-4591-A9BA-D05ABBE405AA_stringValue",
+      "value": "Tyler, The Creator"
     },
     {
-      "class": "symbolMaster",
-      "id": "EA0842E1-1E5C-4EA8-8AFD-97FEE53C58B8"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "862B299C-6ED5-4B04-AFF6-8F00AE1D7327"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "0E4D0E1B-7DD1-4F90-ABA2-117F484C2C39"
+      "_class": "overrideValue",
+      "overrideName": "8FFFDDBF-F5EB-4156-8935-0C898C53FA35_symbolID",
+      "value": "3EE92992-98C5-43CB-9E34-EF4540A01998"
     }
   ],
-  "name": "Page 2",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -104,7 +91,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "53707B5C-1C3A-4A02-A967-101EF2227190",
+    "do_objectID": "461CDFD2-5D12-464F-B6A8-DF2348C31616",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -116,10 +103,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -323,
-    "guides": [
-    ]
-  }
+  "symbolID": "3A67852F-6FEE-4A27-B58E-936191397E46",
+  "verticalSpacing": 0
 }

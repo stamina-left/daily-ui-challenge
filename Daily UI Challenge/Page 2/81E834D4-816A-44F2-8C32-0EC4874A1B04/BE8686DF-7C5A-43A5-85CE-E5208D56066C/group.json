@@ -1,17 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
-  "changeIdentifier": 175,
   "clippingMaskMode": 0,
-  "do_objectID": "CD4A5A87-7A62-4A99-8332-B8E538A34AF1",
+  "do_objectID": "BE8686DF-7C5A-43A5-85CE-E5208D56066C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,64 +15,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
-    "width": 100,
-    "x": 306,
-    "y": -448
+    "height": 45,
+    "width": 374,
+    "x": 20,
+    "y": 445
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "D37AF5EA-ED62-415B-8372-410291D31A4D"
+      "class": "text",
+      "id": "5472D623-983A-4DBF-AB19-55CD2F3BA729"
     },
     {
       "class": "text",
-      "id": "9C62FA70-8DAA-421A-B5D8-397F77EF0CED"
-    }
-  ],
-  "name": "Calculator Button",
-  "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9C62FA70-8DAA-421A-B5D8-397F77EF0CED_textStyle"
+      "id": "24145466-A0A9-46B2-9AC5-C31EDC1849E1"
     },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9C62FA70-8DAA-421A-B5D8-397F77EF0CED_stringValue"
+      "class": "symbolInstance",
+      "id": "2E595A18-3033-45F8-A2CB-299B69F6CED5"
     }
   ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "Music Duration",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -116,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B40F1A89-ADBA-43E8-A670-58E801EFC7F4",
+    "do_objectID": "255AB5DC-100C-42C7-A8CE-4C1B2AEBDF95",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,12 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "90007546-0B02-4A81-860E-047AD89E73C9",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
