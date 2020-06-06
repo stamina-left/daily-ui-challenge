@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2164EF7C-B992-44BE-8097-B41E3B14AC1D",
+  "do_objectID": "6C9285AB-C106-4955-8037-265D48916F84",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 119,
-    "width": 193,
-    "x": 20,
-    "y": 383
+    "height": 60,
+    "width": 414,
+    "x": -0.5,
+    "y": 206
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Controls/Table View/Row/Compact/Light/Large",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "text",
-      "id": "76E383FF-404C-4C18-9C42-135EBA3B0834"
+      "_class": "overrideValue",
+      "overrideName": "E3340855-5749-4D8F-BEAA-75265628AD45/35EDAAC6-1287-470F-A862-FB951CF231A6/A4D320BA-ABD9-490D-9585-67394B5A8885_stringValue",
+      "value": "Team LAWAN"
     },
     {
-      "class": "oval",
-      "id": "BC6A50CB-AD7A-49E1-AC3E-281E9CF218FF"
-    },
-    {
-      "class": "text",
-      "id": "C804A280-E0B4-4B29-80AF-657CB2F66743"
-    },
-    {
-      "class": "text",
-      "id": "AA776C72-041B-431E-A954-9FD23414B376"
+      "_class": "overrideValue",
+      "overrideName": "E3340855-5749-4D8F-BEAA-75265628AD45/35EDAAC6-1287-470F-A862-FB951CF231A6/DD1DFAA7-868F-4591-A9BA-D05ABBE405AA_stringValue",
+      "value": "Welcome to LAWAN!"
     }
   ],
-  "name": "Fundraiser",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4D446431-87C4-4961-8FEE-F13F44CF1757",
+    "do_objectID": "0C6EBFD3-C920-4286-BA74-7538EDB1A561",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -100,5 +92,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "3A67852F-6FEE-4A27-B58E-936191397E46",
+  "verticalSpacing": 0
 }
