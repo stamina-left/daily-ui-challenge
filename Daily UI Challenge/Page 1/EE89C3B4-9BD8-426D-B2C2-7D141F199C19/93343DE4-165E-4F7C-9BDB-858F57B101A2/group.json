@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E91696AD-9BB5-4FB0-8ADC-7A553E719413",
+  "do_objectID": "93343DE4-165E-4F7C-9BDB-858F57B101A2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 314,
-    "x": 50,
-    "y": 773
+    "height": 98,
+    "width": 374,
+    "x": 20,
+    "y": 522
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Confirm Button",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "7B7CC3B0-99FC-43E8-BFCD-8819610E8E80_stringValue",
-      "value": "Submit Donation"
+      "class": "text",
+      "id": "A50EFE17-E937-481B-8093-82EFD2A71313"
+    },
+    {
+      "class": "text",
+      "id": "154C1A2A-D9FE-479A-A60C-7F3A0557371E"
     }
   ],
+  "name": "Description",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DD627A6C-6B36-492C-8A56-426F1B85627B",
+    "do_objectID": "2A21C40B-0D9F-4239-B051-5E910E10F4A8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "7773D10C-0AD0-470E-BA81-241C38E98680",
-  "verticalSpacing": 0
+  }
 }

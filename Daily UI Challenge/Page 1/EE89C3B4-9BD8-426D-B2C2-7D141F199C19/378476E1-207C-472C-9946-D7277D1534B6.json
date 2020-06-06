@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E91696AD-9BB5-4FB0-8ADC-7A553E719413",
+  "do_objectID": "378476E1-207C-472C-9946-D7277D1534B6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,26 +16,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 314,
-    "x": 50,
-    "y": 773
+    "width": 415,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
-  "isFixedToViewport": false,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Confirm Button",
+  "name": "Bars/Status Bar/iPhone/Light",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "7B7CC3B0-99FC-43E8-BFCD-8819610E8E80_stringValue",
-      "value": "Submit Donation"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DD627A6C-6B36-492C-8A56-426F1B85627B",
+    "do_objectID": "01526ACB-47B6-4734-BEA3-19B40023128E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7773D10C-0AD0-470E-BA81-241C38E98680",
+  "symbolID": "71EDCB66-4FA1-40B9-B622-8950C6F6834A",
   "verticalSpacing": 0
 }

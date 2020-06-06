@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AF53502C-558A-4651-A7A1-D22661410885",
+  "do_objectID": "EE89C3B4-9BD8-426D-B2C2-7D141F199C19",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,12 +25,12 @@
     "height": 896,
     "width": 414,
     "x": -350,
-    "y": 4059
+    "y": 5055
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -47,54 +47,62 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "7C77D798-C5B3-4877-B7B7-AFADFA5DE08E"
-    },
-    {
-      "class": "group",
-      "id": "AD3CFBFB-E61F-46BF-B90B-2529E93A46FF"
-    },
-    {
-      "class": "group",
-      "id": "57C24D3A-44FB-4026-903E-F7CE13EB8146"
+      "class": "rectangle",
+      "id": "C2F06205-4EF8-4FE9-A276-A8E148F999E5"
     },
     {
       "class": "symbolInstance",
-      "id": "8C594491-7882-4655-8487-8414A6529E88"
+      "id": "860A1591-C808-443D-A76F-F23FE703BDB5"
     },
     {
       "class": "symbolInstance",
-      "id": "D0F781CC-CC6B-482C-BCC8-FB6983B37E89"
+      "id": "378476E1-207C-472C-9946-D7277D1534B6"
     },
     {
       "class": "symbolInstance",
-      "id": "8C86D25B-B3C4-4026-8717-0FFD43C2A8D7"
+      "id": "29E93E65-84EE-4634-AC55-DCAD8C75C27C"
     },
     {
-      "class": "symbolInstance",
-      "id": "9BD4614E-6A7F-4AAA-B12F-A34720371AED"
+      "class": "text",
+      "id": "67C0B655-6123-4E7B-916A-1B9756621ADC"
     },
     {
-      "class": "symbolInstance",
-      "id": "D106617C-3048-41B7-8A08-A1A8808F9C8A"
+      "class": "text",
+      "id": "4FF1F379-2C78-474D-9395-757652F9CED4"
     },
     {
-      "class": "symbolInstance",
-      "id": "26D2D583-8580-4FD4-AC8A-DE0667AED614"
+      "class": "text",
+      "id": "FB25C8FE-818C-4C78-BB95-CA4A3E9658E1"
     },
     {
-      "class": "symbolInstance",
-      "id": "69142703-F82C-41DF-81C7-8966D5CA0989"
+      "class": "text",
+      "id": "B22BD401-D227-46F8-8486-8583DAE490CB"
+    },
+    {
+      "class": "text",
+      "id": "AA02F372-1960-4DC0-85A8-6AE6525DB8B1"
     },
     {
       "class": "group",
-      "id": "D6992118-0566-4D6B-B1CA-313DE660DFAB"
+      "id": "93343DE4-165E-4F7C-9BDB-858F57B101A2"
+    },
+    {
+      "class": "group",
+      "id": "2D0E442B-FE27-4EDA-A6FE-3F3EC61F3E21"
+    },
+    {
+      "class": "group",
+      "id": "2164EF7C-B992-44BE-8097-B41E3B14AC1D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43A90DBB-10F5-4651-A407-36FC0F1D0690"
     }
   ],
-  "name": "Checkout (Error)",
+  "name": "Shop (Item Detail)",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -142,7 +150,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "99D52FB2-86AB-4639-BB3C-C5FDA3A4DE3C",
+    "do_objectID": "FBB9C3C0-AB40-4476-9B48-6DC30590276B",
     "endMarkerType": 0,
     "fills": [
     ],

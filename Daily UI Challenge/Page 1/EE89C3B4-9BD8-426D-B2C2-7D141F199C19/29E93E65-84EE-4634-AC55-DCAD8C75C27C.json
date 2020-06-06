@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E91696AD-9BB5-4FB0-8ADC-7A553E719413",
+  "do_objectID": "29E93E65-84EE-4634-AC55-DCAD8C75C27C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 314,
-    "x": 50,
-    "y": 773
+    "height": 34,
+    "width": 134,
+    "x": 140,
+    "y": 862
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
-  "isFixedToViewport": false,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Confirm Button",
+  "name": "Bars/Home Indicator/iPhone/Dark - Portrait",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "7B7CC3B0-99FC-43E8-BFCD-8819610E8E80_stringValue",
-      "value": "Submit Donation"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DD627A6C-6B36-492C-8A56-426F1B85627B",
+    "do_objectID": "801A1E60-4AD6-45AE-B2DC-2497C37EE766",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7773D10C-0AD0-470E-BA81-241C38E98680",
+  "symbolID": "41423D0D-25C9-425B-8AE7-B1E6967F482E",
   "verticalSpacing": 0
 }
