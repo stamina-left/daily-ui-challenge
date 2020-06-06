@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2164EF7C-B992-44BE-8097-B41E3B14AC1D",
+  "do_objectID": "5E5D066A-7C55-4D6E-9A2A-A32D3E57A09F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 119,
-    "width": 193,
-    "x": 20,
-    "y": 383
+    "height": 34,
+    "width": 134,
+    "x": 140,
+    "y": 862
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFixedToViewport": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "text",
-      "id": "76E383FF-404C-4C18-9C42-135EBA3B0834"
-    },
-    {
-      "class": "oval",
-      "id": "BC6A50CB-AD7A-49E1-AC3E-281E9CF218FF"
-    },
-    {
-      "class": "text",
-      "id": "C804A280-E0B4-4B29-80AF-657CB2F66743"
-    },
-    {
-      "class": "text",
-      "id": "AA776C72-041B-431E-A954-9FD23414B376"
-    }
+  "layerListExpandedType": 0,
+  "name": "Bars/Home Indicator/iPhone/Dark - Portrait",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Fundraiser",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4D446431-87C4-4961-8FEE-F13F44CF1757",
+    "do_objectID": "F3EE5F1F-3E8E-4509-B076-3FF40C52EADD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -100,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "41423D0D-25C9-425B-8AE7-B1E6967F482E",
+  "verticalSpacing": 0
 }

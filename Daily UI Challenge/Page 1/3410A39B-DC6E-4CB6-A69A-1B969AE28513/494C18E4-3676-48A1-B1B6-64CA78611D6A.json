@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2164EF7C-B992-44BE-8097-B41E3B14AC1D",
+  "do_objectID": "494C18E4-3676-48A1-B1B6-64CA78611D6A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 119,
-    "width": 193,
-    "x": 20,
-    "y": 383
+    "height": 38,
+    "width": 414,
+    "x": 0,
+    "y": 108
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Controls/Table View/Grouped Section Header/Compact/Light",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "text",
-      "id": "76E383FF-404C-4C18-9C42-135EBA3B0834"
-    },
-    {
-      "class": "oval",
-      "id": "BC6A50CB-AD7A-49E1-AC3E-281E9CF218FF"
-    },
-    {
-      "class": "text",
-      "id": "C804A280-E0B4-4B29-80AF-657CB2F66743"
-    },
-    {
-      "class": "text",
-      "id": "AA776C72-041B-431E-A954-9FD23414B376"
+      "_class": "overrideValue",
+      "overrideName": "816A1484-0192-4D52-A48B-4D6073817A3A_stringValue",
+      "value": "Direct Messages"
     }
   ],
-  "name": "Fundraiser",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4D446431-87C4-4961-8FEE-F13F44CF1757",
+    "do_objectID": "006C80C4-1393-4AD2-A5D7-0255B9CD0DBE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -100,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "B450AAD6-E7B8-439C-BB83-C441BA0E0841",
+  "verticalSpacing": 0
 }
