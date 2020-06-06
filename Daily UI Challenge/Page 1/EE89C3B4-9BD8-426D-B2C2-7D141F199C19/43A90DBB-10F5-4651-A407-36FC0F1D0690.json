@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E91696AD-9BB5-4FB0-8ADC-7A553E719413",
+  "do_objectID": "43A90DBB-10F5-4651-A407-36FC0F1D0690",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,13 +12,19 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "1777B4F2-022F-4C04-AC98-B399116C2A54",
+    "maintainScrollPosition": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
     "width": 314,
-    "x": 50,
-    "y": 773
+    "x": 50.5,
+    "y": 798
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -34,7 +40,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "7B7CC3B0-99FC-43E8-BFCD-8819610E8E80_stringValue",
-      "value": "Submit Donation"
+      "value": "Donate"
     }
   ],
   "resizingConstraint": 63,
@@ -76,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DD627A6C-6B36-492C-8A56-426F1B85627B",
+    "do_objectID": "D9621478-1ADF-4545-8E7B-86278169D64C",
     "endMarkerType": 0,
     "fills": [
     ],

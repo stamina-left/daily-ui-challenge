@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E91696AD-9BB5-4FB0-8ADC-7A553E719413",
+  "do_objectID": "F0E907F9-4241-44DD-A607-F2FD80F17B15",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 314,
-    "x": 50,
-    "y": 773
+    "width": 374,
+    "x": 0,
+    "y": 64
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Confirm Button",
+  "name": "Controls/Progress Indicator/Light/Table View Row - Compact",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "7B7CC3B0-99FC-43E8-BFCD-8819610E8E80_stringValue",
-      "value": "Submit Donation"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DD627A6C-6B36-492C-8A56-426F1B85627B",
+    "do_objectID": "B1A3A1E9-7293-4246-B707-64DE4AF3AEDF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7773D10C-0AD0-470E-BA81-241C38E98680",
+  "symbolID": "856624F8-B2EE-4609-BAC0-5F1A218B2D71",
   "verticalSpacing": 0
 }
