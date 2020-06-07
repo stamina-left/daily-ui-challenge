@@ -104403,6 +104403,526 @@
       "remoteStyleID": "9ECBB4AC-F735-4EED-85B3-AE2FC199E3B5[F1970213-E96C-4FA6-9D56-7E99AB9DCC33]",
       "sourceLibraryName": "Apple iOS UI",
       "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "F5F8CE58-7004-4FC5-81CD-2FBF5F8319BA",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "445C294C-DD2C-479F-88AB-76AD6E71A895",
+        "name": "LargeTitle/1 Default/2 Dark/1 Label Color/2 Center Aligned",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "49B377D4-4263-406F-9F57-A8CA0F55D7A7",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "SFProDisplay-Regular",
+                  "size": 34
+                }
+              },
+              "kerning": 0.3740000128746033,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 41,
+                "minimumLineHeight": 41
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "AD58916C-7F9D-4A40-AF4A-05AAB20F8314",
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "E4788263-EE63-4D5D-A921-3ABCB54EB64A",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "E2B0E063-20DC-4C04-83D9-6EE4192F121D",
+        "name": "Headline/4 Bold Italic/2 Dark/2 Secondary Label Color/2 Center Aligned",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "6BBDC92C-B877-4C8A-8D50-27A15FA33285",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 0.6,
+                "blue": 0.9607843137254902,
+                "green": 0.9215686274509803,
+                "red": 0.9215686274509803
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "SFProText-SemiboldItalic",
+                  "size": 17
+                }
+              },
+              "kerning": -0.408,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 22,
+                "minimumLineHeight": 22
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "F0A5B5C4-2AA7-4AC8-B172-3B7C810056E0",
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "45A0711B-E060-42DB-8D3E-D57FB48CBA19",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "BA878CDD-A874-496B-AE5A-47CE8FE5B6F1",
+        "name": "Headline/1 Default/2 Dark/1 Label Color/2 Center Aligned",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "40A219CC-C0A9-40F8-9DCB-D5A51EF3C0FA",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "SFProText-Semibold",
+                  "size": 17
+                }
+              },
+              "kerning": -0.408,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 22,
+                "minimumLineHeight": 22
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "08A967A7-DF48-456C-9FD3-3AD8E2FF8D79",
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "35F50234-361D-4B14-8DB2-12D4012A4E48",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "35948EFE-A0DE-4D3D-8554-B08A22BE06A4",
+        "name": "Title1/2 Bold/2 Dark/1 Label Color/2 Center Aligned",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "10FDDE88-E8E1-4094-A536-6DEFE63E680B",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "SFProDisplay-Bold",
+                  "size": 28
+                }
+              },
+              "kerning": 0.36,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "25338598-A19F-476D-9752-2A2F2F97690D",
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "AA62E3C1-64B4-46D6-8C00-91C24192DFAF",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "C997E2C9-B90F-44DC-B43F-455FFB7430F7",
+        "name": "Body/1 Default/2 Dark/1 Label Color/2 Center Aligned",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "7EDD8AAF-4D2B-4D6B-82F7-EB0CD2B2A9B4",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "SFProText-Regular",
+                  "size": 17
+                }
+              },
+              "kerning": -0.408,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 22,
+                "minimumLineHeight": 22
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "CEA279D4-AC7B-470D-9415-8939828D12A1",
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "5512007B-EADC-44AA-AF04-9E7CDF146C94",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "7FD79E64-9575-4518-A44E-5FF3C3E4BCCE",
+        "name": "Caption1/1 Default/2 Dark/1 Label Color/2 Center Aligned",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "34017F7F-5AB4-42CE-BE7B-4DD43E996221",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "SFProText-Regular",
+                  "size": 12
+                }
+              },
+              "kerning": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 16,
+                "minimumLineHeight": 16
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5A5E22E9-403F-45C7-ACFE-563F769A9588",
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolPrivate": false
     }
   ],
   "layerSymbols": {

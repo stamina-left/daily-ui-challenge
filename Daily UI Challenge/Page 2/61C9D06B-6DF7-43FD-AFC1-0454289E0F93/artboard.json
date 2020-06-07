@@ -3,13 +3,13 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "81E834D4-816A-44F2-8C32-0EC4874A1B04",
+  "do_objectID": "61C9D06B-6DF7-43FD-AFC1-0454289E0F93",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,7 +25,7 @@
     "height": 896,
     "width": 414,
     "x": -208,
-    "y": 548
+    "y": 1544
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -47,58 +47,46 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "F4B2BA3C-3D82-4007-B537-71765DFA68DD"
+      "id": "168FACE1-F017-45ED-BA2C-FD154FE22FB6"
     },
     {
       "class": "group",
-      "id": "598FBF39-3033-46A2-8969-7C3CC94F23B8"
+      "id": "4D3236A3-2B01-4050-B502-1A26A977BEB4"
     },
     {
       "class": "group",
-      "id": "BE8686DF-7C5A-43A5-85CE-E5208D56066C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9719B1EC-8BB9-4D27-B12C-85E56D7D4CA7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5893B334-E43D-49EF-AA55-39585F2F6CB2"
+      "id": "DA452B76-7C00-44E8-BB0E-892CCA7F448A"
     },
     {
       "class": "text",
-      "id": "6F03A99E-E395-4CD0-9062-72452268653C"
+      "id": "A4E5A963-E8D8-4707-88D8-A54C329CAD9F"
+    },
+    {
+      "class": "group",
+      "id": "F3575DCA-7C89-4CCD-85B1-75A1738258AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F004E7A-41A1-4A41-A4EC-89EEB7D47E5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C958E98-A2A9-4B37-9617-9D5266B39967"
+    },
+    {
+      "class": "rectangle",
+      "id": "0B4C3C6A-35FF-4A9D-A637-854E35DC9A0A"
     },
     {
       "class": "text",
-      "id": "277AE423-B584-4BA1-8738-0B5E0DD59A22"
-    },
-    {
-      "class": "text",
-      "id": "85E6A27E-1DE7-4415-A07E-83C849A8CBFC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "93B91A54-F9D6-44B5-9D77-063FAD5D8C51"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2105E35A-A0C4-4F5C-884E-C642E3E25EA3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C109CAAB-501E-4C9F-9047-22EAA6FDB39C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "48EC63BB-90F9-4EA0-B5E6-9AF5C551D42A"
+      "id": "A47E211F-9886-4640-B808-76BA2E67F59D"
     }
   ],
-  "name": "Music Player",
+  "name": "Countdown Timer",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -146,7 +134,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D10ECA40-C2A8-4090-8689-C158B76C49BC",
+    "do_objectID": "0BDF81E2-CEA5-4E36-B5A8-054338B22E74",
     "endMarkerType": 0,
     "fills": [
     ],
