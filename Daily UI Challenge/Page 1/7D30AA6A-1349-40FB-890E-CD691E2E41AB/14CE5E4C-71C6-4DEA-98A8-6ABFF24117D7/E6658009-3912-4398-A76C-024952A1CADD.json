@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3FAFFA2F-5249-4B3D-BC23-5925A0D74546",
+  "do_objectID": "E6658009-3912-4398-A76C-024952A1CADD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,35 +12,64 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
-    "destinationArtboardID": "7D30AA6A-1349-40FB-890E-CD691E2E41AB",
-    "maintainScrollPosition": false
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 414,
-    "x": -2.842170943040401e-14,
-    "y": 95
+    "height": 88,
+    "width": 415,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
-  "isFixedToViewport": false,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Controls/Table View/Row/Regular/Light/Default",
+  "name": "Bars/Navigation Bar/iPhone - Compact/Light/Default",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "683F8D7B-E5F9-436E-9562-1193E26A8A13/13D7E7DE-175B-4B9E-ADA4-AEAF269672AB/95DF010F-7043-4F31-8653-4707DE62DC11_stringValue",
+      "overrideName": "02F8A26C-65B2-4A10-9C97-9EBB6E02D878_stringValue",
       "value": "Payments"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CD5B9484-7853-4C68-9249-E534E304B555_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0E901A50-492C-4133-98A2-4B3F0009BCE2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/D6678922-600F-438E-9F5F-16EC1F652C63_layerStyle",
+      "value": "435C5BB3-6BD4-4BBE-A491-019866662E16"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/55C888B5-17ED-4494-959F-63B95FB7D5A2_stringValue",
+      "value": "Skip"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/50363C18-2EC0-43D3-85D7-68E7E7D01B54_stringValue",
+      "value": "Back"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ACFD2F28-F787-495A-9097-CCFB3F37D67F/5B79F8FA-135E-4E0E-890B-B9536F72A5EF_flowDestination",
+      "value": "C702DA5B-1D85-4F94-8F78-E6C08CB9C1E4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "02F8A26C-65B2-4A10-9C97-9EBB6E02D878_textStyle",
+      "value": "BCD9208C-5FC2-4758-BBD7-2D70227FBA93"
     }
   ],
   "resizingConstraint": 63,
@@ -82,7 +111,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DB239494-1AFF-45FF-BAC6-8DCE8368EA96",
+    "do_objectID": "C464B20E-E476-44A3-B803-C1DACBDF51F3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -94,6 +123,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D5EA42E7-15A4-4E89-9EF3-CBF27CAC4C2B",
+  "symbolID": "1229BC79-86E4-4150-8E74-FC64E631BF7D",
   "verticalSpacing": 0
 }

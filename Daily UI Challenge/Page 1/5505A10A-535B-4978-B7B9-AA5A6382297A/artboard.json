@@ -1,8 +1,15 @@
 {
-  "_class": "group",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD2E45B3-372C-483D-926D-01DD8F624645",
+  "do_objectID": "5505A10A-535B-4978-B7B9-AA5A6382297A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +22,76 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 597,
-    "width": 842,
-    "x": 2631,
-    "y": 5265
+    "height": 896,
+    "width": 414,
+    "x": 678,
+    "y": 2067
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "25D89F80-9675-4533-804D-1A43D0FDA1E0"
+      "id": "DC8990FC-12B5-48AD-8CDD-3A85C0A90F6D"
     },
     {
-      "class": "group",
-      "id": "38318F31-13FE-47E6-8C57-0030FAC0A4B4"
+      "class": "symbolInstance",
+      "id": "738B445B-DEF2-4763-8602-704616DDF842"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69FBCF36-13B6-4C3D-A42E-3BDB760A53D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B016495-E4F7-4ABE-A5BA-1A05B7EC63F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EEE76DD1-9CC1-4B39-8575-C5287A1712EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50E7662B-DC9A-41BA-8322-18504997EAF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD9410CF-A457-4E45-A7F0-90CE13B61F27"
     }
   ],
-  "name": "MasterCard Vector",
+  "name": "Payment Detail",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone 11",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -81,7 +126,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4D989113-925D-4942-BE01-04082143DF6D",
+    "do_objectID": "966B116D-6530-4704-B2B2-1448FCD10F79",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +137,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
   }
 }

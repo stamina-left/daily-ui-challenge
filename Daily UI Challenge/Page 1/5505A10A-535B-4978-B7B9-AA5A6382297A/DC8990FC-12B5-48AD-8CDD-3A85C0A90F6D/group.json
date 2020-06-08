@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD2E45B3-372C-483D-926D-01DD8F624645",
+  "do_objectID": "DC8990FC-12B5-48AD-8CDD-3A85C0A90F6D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 597,
-    "width": 842,
-    "x": 2631,
-    "y": 5265
+    "height": 88,
+    "width": 415,
+    "x": -1,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFixedToViewport": false,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "25D89F80-9675-4533-804D-1A43D0FDA1E0"
+      "class": "rectangle",
+      "id": "BE067BE1-FCA9-4C4F-B1A3-FB8609CC9AF5"
     },
     {
-      "class": "group",
-      "id": "38318F31-13FE-47E6-8C57-0030FAC0A4B4"
+      "class": "symbolInstance",
+      "id": "E5830A34-7348-4928-A0D3-97795E751F91"
     }
   ],
-  "name": "MasterCard Vector",
+  "name": "Navigation Bar with Custom Background",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4D989113-925D-4942-BE01-04082143DF6D",
+    "do_objectID": "B4EEC29A-1339-453E-B34C-DC1D424BFE9B",
     "endMarkerType": 0,
     "fills": [
     ],

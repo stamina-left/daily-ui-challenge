@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "22067400-CD9C-4B04-A719-053623A3E6BE",
+  "do_objectID": "7D30AA6A-1349-40FB-890E-CD691E2E41AB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 896,
     "width": 414,
-    "x": 164,
-    "y": 6051
+    "x": 678,
+    "y": 1071
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -47,38 +47,46 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "BF27E6C5-B1E0-43E3-9C2E-DEB3F632DA19"
+      "class": "group",
+      "id": "14CE5E4C-71C6-4DEA-98A8-6ABFF24117D7"
     },
     {
       "class": "symbolInstance",
-      "id": "64F6126F-2DC0-4110-BB20-14DE72A3CCC6"
+      "id": "E1AE5CBA-2EE2-4A02-BD5A-7160CF0EC40F"
     },
     {
       "class": "symbolInstance",
-      "id": "765DC2A3-DC21-432A-967B-97F8C072E8CB"
+      "id": "9646A9FE-D797-4EAA-9B18-8C5FA8CCEF69"
     },
     {
       "class": "symbolInstance",
-      "id": "5E5D066A-7C55-4D6E-9A2A-A32D3E57A09F"
+      "id": "4780DDFD-EB74-4636-A2CB-BDF2021871BC"
     },
     {
       "class": "symbolInstance",
-      "id": "A1B2CE85-7138-4748-BD05-B9E7CA228140"
+      "id": "4E20ADAF-D0C8-41C5-B50F-94D59531A95F"
     },
     {
       "class": "symbolInstance",
-      "id": "B235D082-D7BD-48D5-B298-32ED7D8A32F2"
+      "id": "081DB898-12FE-424D-8B8A-2D75D0CDD30F"
     },
     {
-      "class": "oval",
-      "id": "F26F33EF-651F-492B-B66A-2E44ABFCF897"
+      "class": "text",
+      "id": "DF670DA5-FB2C-4A05-825A-72CD90A5ECCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "498AF486-8645-408A-91DC-3053E7E08DF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A820BFE1-8E70-4E83-BB65-0559333BE758"
     }
   ],
-  "name": "Direct Messages",
+  "name": "Payments",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -126,7 +134,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E805F90F-8861-4025-9D33-94F311550DEF",
+    "do_objectID": "572F37A2-0166-4D4E-9653-B29312939104",
     "endMarkerType": 0,
     "fills": [
     ],

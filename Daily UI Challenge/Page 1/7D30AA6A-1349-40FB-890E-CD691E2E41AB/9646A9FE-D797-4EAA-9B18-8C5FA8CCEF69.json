@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD2E45B3-372C-483D-926D-01DD8F624645",
+  "do_objectID": "9646A9FE-D797-4EAA-9B18-8C5FA8CCEF69",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 597,
-    "width": 842,
-    "x": 2631,
-    "y": 5265
+    "height": 75,
+    "width": 414,
+    "x": 1,
+    "y": 821
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFixedToViewport": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Bars/Tab Bar/Compact/Light - 2 Tabs",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "25D89F80-9675-4533-804D-1A43D0FDA1E0"
+      "_class": "overrideValue",
+      "overrideName": "42D1C601-D0F6-44D1-8407-D7279240B2E7_symbolID",
+      "value": "88193EF3-B6A6-4C11-BD1F-26E73F0EAF12"
     },
     {
-      "class": "group",
-      "id": "38318F31-13FE-47E6-8C57-0030FAC0A4B4"
+      "_class": "overrideValue",
+      "overrideName": "A19AE6EC-F9F2-40C5-9F1B-16FAF795FABD/88A9F3AC-EFCD-43B7-99CD-C18D8EDB50B9_layerStyle",
+      "value": "AF974C50-3948-4EAF-A365-0B5B6665E6C3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "42D1C601-D0F6-44D1-8407-D7279240B2E7/404997B7-A0F4-4E2D-8015-7A267F5CDB18_stringValue",
+      "value": "Profile"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "42D1C601-D0F6-44D1-8407-D7279240B2E7/A3002224-AE09-4821-96C6-51FD6568C98F/31519A54-9F6A-44B1-B372-8725EFE109CB_stringValue",
+      "value": "􀉪"
     }
   ],
-  "name": "MasterCard Vector",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +91,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4D989113-925D-4942-BE01-04082143DF6D",
+    "do_objectID": "E9EFECE1-B813-4D49-B59A-4570CB9D220B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +102,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "9E31F584-C1AE-485A-80E7-36BAB31EC382",
+  "verticalSpacing": 0
 }
