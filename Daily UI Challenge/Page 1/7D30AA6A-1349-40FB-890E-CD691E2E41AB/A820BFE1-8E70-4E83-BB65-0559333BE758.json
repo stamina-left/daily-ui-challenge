@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD2E45B3-372C-483D-926D-01DD8F624645",
+  "do_objectID": "A820BFE1-8E70-4E83-BB65-0559333BE758",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 597,
-    "width": 842,
-    "x": 2631,
-    "y": 5265
+    "height": 38,
+    "width": 414,
+    "x": 0,
+    "y": 216
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Controls/Table View/Grouped Section Header/Compact/Light",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "25D89F80-9675-4533-804D-1A43D0FDA1E0"
-    },
-    {
-      "class": "group",
-      "id": "38318F31-13FE-47E6-8C57-0030FAC0A4B4"
+      "_class": "overrideValue",
+      "overrideName": "816A1484-0192-4D52-A48B-4D6073817A3A_stringValue",
+      "value": "Current Payments"
     }
   ],
-  "name": "MasterCard Vector",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4D989113-925D-4942-BE01-04082143DF6D",
+    "do_objectID": "C6D43A46-C512-419C-9F03-EBC64F2127FD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "B450AAD6-E7B8-439C-BB83-C441BA0E0841",
+  "verticalSpacing": 0
 }

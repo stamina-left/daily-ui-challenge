@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD2E45B3-372C-483D-926D-01DD8F624645",
+  "do_objectID": "EEE76DD1-9CC1-4B39-8575-C5287A1712EC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 597,
-    "width": 842,
-    "x": 2631,
-    "y": 5265
+    "height": 101,
+    "width": 314,
+    "x": 50,
+    "y": 108
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Textbox and Title",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "25D89F80-9675-4533-804D-1A43D0FDA1E0"
+      "_class": "overrideValue",
+      "overrideName": "B446D674-FA20-401E-B31B-1BB85E183D93_stringValue",
+      "value": "Payment Name"
     },
     {
-      "class": "group",
-      "id": "38318F31-13FE-47E6-8C57-0030FAC0A4B4"
+      "_class": "overrideValue",
+      "overrideName": "144AA67C-2083-4F7A-9085-67045ACFAC13_stringValue",
+      "value": "Credit Card"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B446D674-FA20-401E-B31B-1BB85E183D93_textStyle",
+      "value": "06F17659-88B6-407B-AF10-2424DABB7DD6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "144AA67C-2083-4F7A-9085-67045ACFAC13_textStyle",
+      "value": "96F336F1-E903-4442-880A-6C96B6AD2FBD"
     }
   ],
-  "name": "MasterCard Vector",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +91,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4D989113-925D-4942-BE01-04082143DF6D",
+    "do_objectID": "B4211B3C-6E69-4C94-9B7E-76EA215A8699",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +102,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "47D3A809-625F-465B-AE56-D995BB7CD81E",
+  "verticalSpacing": 0
 }

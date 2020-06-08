@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD2E45B3-372C-483D-926D-01DD8F624645",
+  "do_objectID": "AD9410CF-A457-4E45-A7F0-90CE13B61F27",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 597,
-    "width": 842,
-    "x": 2631,
-    "y": 5265
+    "height": 44,
+    "width": 414,
+    "x": 0,
+    "y": 229
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Controls/Table View/Row/Compact/Light/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "25D89F80-9675-4533-804D-1A43D0FDA1E0"
+      "_class": "overrideValue",
+      "overrideName": "B22F6528-3B3B-443F-BAA2-4FA829399B35_symbolID",
+      "value": "417EFB9D-3A2D-4A31-9696-AC562F16054B"
     },
     {
-      "class": "group",
-      "id": "38318F31-13FE-47E6-8C57-0030FAC0A4B4"
+      "_class": "overrideValue",
+      "overrideName": "54EF8BD8-F358-48A8-B6DE-22F4DDB4C45D/13D7E7DE-175B-4B9E-ADA4-AEAF269672AB/95DF010F-7043-4F31-8653-4707DE62DC11_stringValue",
+      "value": "Use as a default payment method"
     }
   ],
-  "name": "MasterCard Vector",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4D989113-925D-4942-BE01-04082143DF6D",
+    "do_objectID": "972FD784-8EC0-4B23-85AF-37C1210C3AE2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +92,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "B303BBF5-08AF-4FCA-9C0D-5D67A1164FA4",
+  "verticalSpacing": 0
 }

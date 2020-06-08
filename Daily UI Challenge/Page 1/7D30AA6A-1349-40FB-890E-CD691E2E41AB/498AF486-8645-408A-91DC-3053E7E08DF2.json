@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD2E45B3-372C-483D-926D-01DD8F624645",
+  "do_objectID": "498AF486-8645-408A-91DC-3053E7E08DF2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 597,
-    "width": 842,
-    "x": 2631,
-    "y": 5265
+    "height": 44,
+    "width": 413,
+    "x": 0.5,
+    "y": 172
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Controls/Table View/Row/Compact/Light/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "25D89F80-9675-4533-804D-1A43D0FDA1E0"
-    },
-    {
-      "class": "group",
-      "id": "38318F31-13FE-47E6-8C57-0030FAC0A4B4"
+      "_class": "overrideValue",
+      "overrideName": "54EF8BD8-F358-48A8-B6DE-22F4DDB4C45D/13D7E7DE-175B-4B9E-ADA4-AEAF269672AB/95DF010F-7043-4F31-8653-4707DE62DC11_stringValue",
+      "value": "Add new payment"
     }
   ],
-  "name": "MasterCard Vector",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4D989113-925D-4942-BE01-04082143DF6D",
+    "do_objectID": "184A0005-DD63-4F70-A39F-9F1F8F973085",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "B303BBF5-08AF-4FCA-9C0D-5D67A1164FA4",
+  "verticalSpacing": 0
 }
